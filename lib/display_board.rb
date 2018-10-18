@@ -9,4 +9,4 @@ def display_board
   puts "   |   |   "
 end
 board = [" ", " ", " ", "X", "O", "X", "O", "X", "O"]
-print display_board(board)
+
